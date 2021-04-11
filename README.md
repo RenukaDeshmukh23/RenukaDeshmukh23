@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @RenukaDeshmukh23
+- 👋 Hi, I’m @Renuka
 - 👀 I’m interested in Python Development...
 - 🌱 I’m currently learning Fast-ai[Machine Learning/Data Analysis/Artificial Intelligence]...
+- I'm working as Freelancer..
 
 
 <!---
